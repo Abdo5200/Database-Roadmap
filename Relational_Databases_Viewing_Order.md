@@ -2,9 +2,9 @@
 
 This list combines videos from both playlists: **Building with Databases** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PzsDAFA3FinTadWe4nVyey4)) and **Relational Database Internals** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PywFpq0VXxGFbStvtskNVkW))
 
-| # | Title | Arabic | English |
+| # | Title | Arabic | Done |
 | --- | --- | --- | --- |
-| 1 | Relational Databases & Relational Algebra | [Arabic](https://www.youtube.com/watch?v=UuCDByipiCo) | [English](https://youtu.be/5-0_tHSnbUs) |
+| 1 | Relational Databases & Relational Algebra | [Arabic](https://www.youtube.com/watch?v=UuCDByipiCo) | [] |
 | 2 | Relational Algebra - Deep Dive | [Arabic](https://www.youtube.com/watch?v=OuFS0tcQXh8) | Included in #1 |
 | 3 | Database Storage 1 (Files & Pages) | [Arabic](https://youtu.be/-HtHhBQbMB4) | [English](https://youtu.be/sE-PWl_fd40) |
 | 4 | Database Storage 2 (Page layouts and tuples) | [Arabic](https://youtu.be/8-LJyyAjOhE) | [English](https://youtu.be/lpkEwChGFH8) |
