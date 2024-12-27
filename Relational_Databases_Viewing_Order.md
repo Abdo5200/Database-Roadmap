@@ -16,7 +16,7 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 10 | Relationships in ER Diagrams | [Arabic](https://youtu.be/hp1gX4kh3lw) |  |
 | 11 | Database Keys | [Arabic](https://youtu.be/kgpiD3Z_swg) | ✅ |
 | 12 | ER to Relational Mapping | [Arabic](https://youtu.be/3E_FTJ1KFyg) |  |
-| 13 | Database Normalization | [Arabic](https://youtu.be/1HEHa_EJa0k) | ✅ |
+| 13 | Database Normalization | [Arabic](https://youtu.be/1HEHa_EJa0k) | ✅|
 | 14 | SQL Query Life Cycle | [Arabic](https://youtu.be/SEKF4u6Ovyw) ||
 | 15 | Join Algorithms | [Arabic](https://youtu.be/oVeo3i5ExaA) | |
 | 16 | SQL Join Types (Inner, Outer, Semi-join, Anti-join) | [Arabic](https://youtu.be/4RmzfVUVxYI) ||
