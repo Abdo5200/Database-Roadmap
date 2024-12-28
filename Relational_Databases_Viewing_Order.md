@@ -1,7 +1,6 @@
 # Relational Databases Viewing Order
 
-This list combines videos from both playlists: **Building with Databases** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PzsDAFA3FinTadWe4nVyey4)) and **Relational Database Internals** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PywFpq0VXxGFbStvtskNVkW))
-
+This list combines videos from both playlists: **Building with Databases** and **Relational Database Internals**.
 | # | Title | Arabic | Done |
 | --- | --- | --- | --- |
 | 1 | Relational Databases & Relational Algebra | [Arabic](https://www.youtube.com/watch?v=UuCDByipiCo) |  |
