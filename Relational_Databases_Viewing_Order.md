@@ -28,7 +28,7 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 22 | Cardinality Estimation 2 (Aggregation, Join) | [Arabic](https://youtu.be/QwqNuRSLE3M) |  |
 | 23 | Cardinality Estimation 3 (Estimation Errors) | [Arabic](https://youtu.be/ZD0ZarOR438) ||
 | 24 | Query Execution | [Arabic](https://youtu.be/Hl0SwV1RFFs) | |
-| 25 | Database Views | [Arabic](https://youtu.be/tBqbzeV_EkI) |  |
+| 25 | Database Views | [Arabic](https://youtu.be/tBqbzeV_EkI) | ✅ |
 | 26 | Materialized Views | [Arabic](https://youtu.be/qcJiNoQxHQg) |  |
 | 27 | Transactions 1 (ACID Properties) | [Arabic](https://www.youtube.com/watch?v=ziH5Y4tvQJE) |  |
 | 28 | Transactions 2 (Schedules) | [Arabic](https://youtu.be/KRZTwTWiUek) |  |
