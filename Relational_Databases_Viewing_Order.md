@@ -3,7 +3,7 @@
 This list combines videos from both playlists: **Building with Databases** and **Relational Database Internals**.
 | # | Title | Arabic | Done |
 | --- | --- | --- | --- |
-| 1 | Relational Databases & Relational Algebra => internals | [Arabic](https://www.youtube.com/watch?v=UuCDByipiCo) |  |
+| 1 | Relational Databases & Relational Algebra => internals | [Arabic](https://www.youtube.com/watch?v=UuCDByipiCo) | ✅ |
 | 2 | Relational Algebra - Deep Dive => internals | [Arabic](https://www.youtube.com/watch?v=OuFS0tcQXh8) |  |
 | 3 | Database Storage 1 (Files & Pages) => internals | [Arabic](https://youtu.be/-HtHhBQbMB4) |  |
 | 4 | Database Storage 2 (Page layouts and tuples) => internals | [Arabic](https://youtu.be/8-LJyyAjOhE) |  |
