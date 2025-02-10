@@ -9,7 +9,7 @@ This list combines videos from both playlists: **Building with Databases** and *
 | 4 | Database Storage 2 (Page layouts and tuples) => internals | [Arabic](https://youtu.be/8-LJyyAjOhE) | ✅ |
 | 5 | Database Indexes 1 (B and B+ trees) => internals | [Arabic](https://youtu.be/1ZhBULsbZGw) | ✅ |
 | 6 | Database Indexes 2 (Hash, Composite) => internals | [Arabic](https://youtu.be/ddWoqXw6Qic) | ✅ |
-| 7 | Database Indexes 3 (Union, Intersection, Clustered, Covering) => internals | [Arabic](https://youtu.be/KTEViriyc-Q) |  |
+| 7 | Database Indexes 3 (Union, Intersection, Clustered, Covering) => internals | [Arabic](https://youtu.be/KTEViriyc-Q) | ✅ |
 | 8 | Database Indexes 4 (Q & A) => internals | [Arabic](https://youtu.be/wY_SxRMLTvA) |  |
 | 9 | Database Design | [Arabic](https://youtu.be/gZ5iYMkrcfQ) | ✅ |
 | 10 | Relationships in ER Diagrams | [Arabic](https://youtu.be/hp1gX4kh3lw) |  |
