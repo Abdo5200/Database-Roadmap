@@ -12,7 +12,7 @@ This list combines videos from both playlists: **Building with Databases** and *
 | 7 | Database Indexes 3 (Union, Intersection, Clustered, Covering) => internals | [Arabic](https://youtu.be/KTEViriyc-Q) | ✅ |
 | 8 | **Database Indexes 4 (Q & A) => internals** | [Arabic](https://youtu.be/wY_SxRMLTvA) | ✅ |
 | 9 | Database Design | [Arabic](https://youtu.be/gZ5iYMkrcfQ) | ✅ |
-| 10 | Relationships in ER Diagrams | [Arabic](https://youtu.be/hp1gX4kh3lw) |  |
+| 10 | Relationships in ER Diagrams | [Arabic](https://youtu.be/hp1gX4kh3lw) | ✅ |
 | 11 | Database Keys | [Arabic](https://youtu.be/kgpiD3Z_swg) | ✅ |
 | 12 | ER to Relational Mapping | [Arabic](https://youtu.be/3E_FTJ1KFyg) |  |
 | 13 | Database Normalization | [Arabic](https://youtu.be/1HEHa_EJa0k) | ✅|
