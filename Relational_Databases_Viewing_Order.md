@@ -14,7 +14,7 @@ This list combines videos from both playlists: **Building with Databases** and *
 | 9 | Database Design | [Arabic](https://youtu.be/gZ5iYMkrcfQ) | ✅ |
 | 10 | Relationships in ER Diagrams | [Arabic](https://youtu.be/hp1gX4kh3lw) | ✅ |
 | 11 | Database Keys | [Arabic](https://youtu.be/kgpiD3Z_swg) | ✅ |
-| 12 | ER to Relational Mapping | [Arabic](https://youtu.be/3E_FTJ1KFyg) |  |
+| 12 | ER to Relational Mapping | [Arabic](https://youtu.be/3E_FTJ1KFyg) | ✅ |
 | 13 | Database Normalization | [Arabic](https://youtu.be/1HEHa_EJa0k) | ✅|
 | 14 | SQL Query Life Cycle => internals | [Arabic](https://youtu.be/SEKF4u6Ovyw) ||
 | 15 | Join Algorithms => internals | [Arabic](https://youtu.be/oVeo3i5ExaA) | |
