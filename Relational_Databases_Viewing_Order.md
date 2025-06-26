@@ -38,4 +38,11 @@ This list combines videos from both playlists: **Building with Databases** and *
 | 33 | Data Partitioning | [Arabic](https://youtu.be/XnCnIWMxEhA) | |
 | 34 | Distributed Databases | [Arabic](https://youtu.be/LujY8mdibGk) | |
 | 35 | **Database Sharding (and Consistent Hashing)** => internals | [Arabic](https://youtu.be/-GXQwCIRANA) |  |
-
+| 36 | OLTP vs. OLAP | [Arabic](https://youtu.be/MMrx03rQbGg) |  |
+| 37 | Query Performance Tuning & Query Rewrite | [Arabic](https://youtu.be/RtXQug0DuVo) |  |
+| 38 | Window Functions (1) | [Arabic](https://youtu.be/eOVmvztKP4o) |  |
+| 39 | Window Functions (2) | [Arabic](https://youtu.be/Y-nYllYu83Q) |  |
+| 40 | SQL Stored Procedures | [Arabic](https://youtu.be/4nBPnPg-als) |  |
+| 41 | Columnar Databases/Column Stores (1) | [Arabic](https://youtu.be/8bDJPLhleeo) |  |
+| 42 | Columnar Databases/Column Stores (2) | [Arabic](https://youtu.be/4IJ9hK4BuiI) |  |
+| 43 | Full Text Search (FTS) | [Arabic](https://youtu.be/UfWDzLus1yY) |  |
