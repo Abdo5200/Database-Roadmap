@@ -19,7 +19,7 @@ This list combines videos from both playlists: **Building with Databases** and *
 | 14 | **SQL Query Life Cycle** => internals | [Arabic](https://youtu.be/SEKF4u6Ovyw) | ✅ |
 | 15 | **Join Algorithms** => internals | [Arabic](https://youtu.be/oVeo3i5ExaA) | ✅ |
 | 16 | SQL Join Types (Inner, Outer, Semi-join, Anti-join) | [Arabic](https://youtu.be/4RmzfVUVxYI) | ✅ |
-| 17 | Common Table Expressions (CTEs) vs. Subqueries | [Arabic](https://youtu.be/bdKIwDv9Owc) | |
+| 17 | Common Table Expressions (CTEs) vs. Subqueries | [Arabic](https://youtu.be/bdKIwDv9Owc) | ✅ |
 | 18 | **Aggregation Algorithms** => internals | [Arabic](https://youtu.be/dHOYDnqJ9HY) ||
 | 19 | **SQL Query Optimizer** => internals | [Arabic](https://youtu.be/iAxFGRbAh8s) ||
 | 20 | Understanding EXPLAIN in Postgres | [Arabic](https://youtu.be/12puiczFlz8) ||
