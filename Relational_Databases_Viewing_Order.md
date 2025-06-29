@@ -20,13 +20,13 @@ This list combines videos from both playlists: **Building with Databases** and *
 | 15 | **Join Algorithms** => internals | [Arabic](https://youtu.be/oVeo3i5ExaA) | ✅ |
 | 16 | SQL Join Types (Inner, Outer, Semi-join, Anti-join) | [Arabic](https://youtu.be/4RmzfVUVxYI) | ✅ |
 | 17 | Common Table Expressions (CTEs) vs. Subqueries | [Arabic](https://youtu.be/bdKIwDv9Owc) | ✅ |
-| 18 | **Aggregation Algorithms** => internals | [Arabic](https://youtu.be/dHOYDnqJ9HY) ||
-| 19 | **SQL Query Optimizer** => internals | [Arabic](https://youtu.be/iAxFGRbAh8s) ||
-| 20 | Understanding EXPLAIN in Postgres | [Arabic](https://youtu.be/12puiczFlz8) ||
-| 21 | **Cardinality Estimation 1 (Overview, Selection)** => internals | [Arabic](https://youtu.be/PPDDLS5NSyM) | |
+| 18 | **Aggregation Algorithms** => internals | [Arabic](https://youtu.be/dHOYDnqJ9HY) | ✅ |
+| 19 | **SQL Query Optimizer** => internals | [Arabic](https://youtu.be/iAxFGRbAh8s) |  |
+| 20 | Understanding EXPLAIN in Postgres | [Arabic](https://youtu.be/12puiczFlz8) |  |
+| 21 | **Cardinality Estimation 1 (Overview, Selection)** => internals | [Arabic](https://youtu.be/PPDDLS5NSyM) |  |
 | 22 | **Cardinality Estimation 2 (Aggregation, Join)** => internals | [Arabic](https://youtu.be/QwqNuRSLE3M) |  |
-| 23 | **Cardinality Estimation 3 (Estimation Errors)** => internals | [Arabic](https://youtu.be/ZD0ZarOR438) ||
-| 24 | **Query Execution** => internals | [Arabic](https://youtu.be/Hl0SwV1RFFs) | |
+| 23 | **Cardinality Estimation 3 (Estimation Errors)** => internals | [Arabic](https://youtu.be/ZD0ZarOR438) |  |
+| 24 | **Query Execution** => internals | [Arabic](https://youtu.be/Hl0SwV1RFFs) |  |
 | 25 | Database Views | [Arabic](https://youtu.be/tBqbzeV_EkI) | ✅ |
 | 26 | Materialized Views | [Arabic](https://youtu.be/qcJiNoQxHQg) |  |
 | 27 | **Transactions 1 (ACID Properties)** => internals | [Arabic](https://www.youtube.com/watch?v=ziH5Y4tvQJE) |  |
